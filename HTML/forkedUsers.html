@@ -1,0 +1,26 @@
+<!-- <table>
+    <tr ng-repeat="user in forkedUsers">
+        <td><span ng-bind="user.full_name"></span></td>
+    </tr>
+</table> -->
+
+
+<div ng-repeat="user in forkedUsers" id="row">
+        <div class="items">
+            <img ng-src="{{user.owner.avatar_url}}" >
+        </div>
+        <div class="items">
+            <p>Name:<span ng-bind="user.owner.login"></span><br>
+            Id:<span ng-bind="user.owner.id"></span></p>
+            <button ng-click='followUser(user.owner.login)'>Follow</button>
+        </div>       
+</div>
+
+<div class="items">
+    <div class="items">
+        <button id='prev' ng-click="getPrev()">Prev</button>
+        <button id='next' ng-click="getNext()">Next</button>
+    </div>
+</div>
+
+
