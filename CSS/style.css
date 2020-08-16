@@ -2,8 +2,10 @@
     white-space: nowrap; /* important */
     overflow: auto;
     border-style: ridge;
-    width: 70%;
-     
+    width: 50%;
+    background-color: rgb(243, 242, 242);
+    margin:auto;
+    margin-bottom: 20px; 
 }
 
 .items {
@@ -20,7 +22,6 @@ p{
     font-display: block;
     font-size: 30px;
     font-style: italic;
-    margin-bottom: 200px;
 }
 
 button {
@@ -54,7 +55,7 @@ button {
     cursor: pointer;
     -webkit-transition-duration: 0.4s; /* Safari */
     transition-duration: 0.4s;
-    margin-left:400px;
+    margin-left:550px;
   }
 
   #prev{
@@ -69,4 +70,5 @@ button {
     cursor: pointer;
     -webkit-transition-duration: 0.4s; /* Safari */
     transition-duration: 0.4s;
+    margin-left:350px;
   }
