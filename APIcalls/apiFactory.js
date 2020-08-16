@@ -1,7 +1,7 @@
 angular.module('tlgcApp').factory('apiFactory', function($http){
 
     const endpoint = 'https://api.github.com/repos/facebook/react/forks';    // Get users who forked the repo
-    const token = 'Bearer c8f2feab98e530bb1d44626b6f65183fc876f5df';   //Github token of the user , it helps in authentication.
+    const token = 'Bearer 908914bc59c2f3002eb450d8619af89401b13fbd';   //Github token of the user , it helps in authentication.
 
     var apis = {};
 
