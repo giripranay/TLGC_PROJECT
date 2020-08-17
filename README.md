@@ -17,7 +17,7 @@ How to generate access token:
                                    1.Clik on 'Generate new token'
                                    2.Give name for the access token
                                    3.Next you need to select scope for this access token.
-                                   4.Select "User" checkboc
+                                   4.Select "User" checkbox
                                    5.Go down and click 'Generate token' button.
                                    
 Setup: 
