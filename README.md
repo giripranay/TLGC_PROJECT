@@ -4,7 +4,7 @@ This web page displays users who have forked the React repository and allows aut
 
 ## Demo
 
-Hosted on GitHub Pages: [https://giripranay.github.io/TLGC_PROJECT/#/](https://giripranay.github.io/TLGC_PROJECT/#/)
+Hosted on GitHub Pages: https://giripranay.github.io/TLGC_PROJECT/
 
 ## Technologies Used
 
