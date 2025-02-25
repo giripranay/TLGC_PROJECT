@@ -69,8 +69,4 @@ To use the "Follow" feature, you need to generate a Personal Access Token (PAT) 
         127.0.0.1:8080
         ```
 
-## Additional Notes
-
-*   Provide clear instructions on the structure of the `apiConfig` file and where to place the token.  A code example would be very helpful.
-*   Mention any specific AngularJS dependencies or versions required.
-*   If there are any additional setup steps, please include them here.
+** For clarifications, please contact: giripranay.kona@gmail.com**
