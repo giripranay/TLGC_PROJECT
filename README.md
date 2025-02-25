@@ -66,7 +66,7 @@ To use the "Follow" feature, you need to generate a Personal Access Token (PAT) 
     3.  Open the following URL in your browser:
 
         ```
-        127.0.01:8080
+        127.0.0.1:8080
         ```
 
 ## Additional Notes
